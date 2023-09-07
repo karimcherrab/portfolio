@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.653817c8.css",
+    "main.js": "/portfolio/static/js/main.f29dc7ff.js",
+    "static/media/ForniShop.png": "/portfolio/static/media/ForniShop.f4c41e8f011cd5e964a0.png",
+    "static/media/video_player.png": "/portfolio/static/media/video_player.3ba684761eddcc9cb3af.png",
+    "static/media/hoo_bank.png": "/portfolio/static/media/hoo_bank.69adb235f9e2e17e8020.png",
+    "static/media/HomeLand.png": "/portfolio/static/media/HomeLand.8afbd9ef270be4a5a264.png",
+    "static/media/khayyer.png": "/portfolio/static/media/khayyer.ddfe3b88f3a81c1b906c.png",
+    "static/media/subchannel.png": "/portfolio/static/media/subchannel.815ab40b5748a1e787b1.png",
+    "static/media/quran.png": "/portfolio/static/media/quran.0b2eb4417c02165bdb53.png",
+    "static/media/hero.png": "/portfolio/static/media/hero.cdade95684e864459848.png",
+    "static/media/pharmacie.png": "/portfolio/static/media/pharmacie.1e59d893d08adbc7b3e6.png",
+    "static/media/math.png": "/portfolio/static/media/math.1ddc3d13bb3011900648.png",
+    "static/media/nfc_dom.png": "/portfolio/static/media/nfc_dom.0e046703686952397338.png",
+    "static/media/photoprofile.jpg": "/portfolio/static/media/photoprofile.de9a31070529b71c7897.jpg",
+    "static/media/dashboard_modern.png": "/portfolio/static/media/dashboard_modern.dd9dcd143bd5f2ff1bb9.png",
+    "static/media/dashboard.png": "/portfolio/static/media/dashboard.6d81089dd786f2cfd600.png",
+    "static/media/chatApp.png": "/portfolio/static/media/chatApp.903ca4a92e4a66c76026.png",
+    "static/media/thumbup.png": "/portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/fiverrOrange.png": "/portfolio/static/media/fiverrOrange.0d3607deca4e2b3de26e.png",
+    "static/media/wave.png": "/portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "index.html": "/portfolio/index.html",
+    "main.653817c8.css.map": "/portfolio/static/css/main.653817c8.css.map",
+    "main.f29dc7ff.js.map": "/portfolio/static/js/main.f29dc7ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.653817c8.css",
+    "static/js/main.f29dc7ff.js"
+  ]
+}
